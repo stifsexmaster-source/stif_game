@@ -23,7 +23,7 @@
 
 ### Вариант 2: Запуск из исходников (для разработчиков)
 ```bash
-git clone https://github.com/ВАШ_НИК/stay-out-helper.git
+https://github.com/stifsexmaster-source/stif_game.git
 cd stay-out-helper
 pip install -r requirements.txt
 python auc.py
