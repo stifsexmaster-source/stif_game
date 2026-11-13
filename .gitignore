@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+config.json
+watchlist.json
+screenshots/
+dist/
+build/
+*.spec
+debug_*.png
+*.zip
